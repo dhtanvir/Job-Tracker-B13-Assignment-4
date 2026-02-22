@@ -1,6 +1,6 @@
 ## Answers to Questions
 
-# 1. What is the difference between getElementById, getElementsByClassName, and querySelector /     querySelectorAll?
+* 1. What is the difference between getElementById, getElementsByClassName, and querySelector /     querySelectorAll?
   #Ans :
 getElementById: only selects a single element by id. 
 getElementsByClassName: Selects multiple elements by class
